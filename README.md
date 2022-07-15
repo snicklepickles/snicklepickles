@@ -3,7 +3,7 @@
 
 💌 Contact me at zphoebe@outlook.com.
 
-<h2>📚 I'm Currently Learning</h2>
+<h2>📚 Currently Learning</h2>
 
 **Monash University**
 - FIT2099 Object oriented design and implementation
