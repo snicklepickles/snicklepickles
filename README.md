@@ -1,15 +1,15 @@
 <h2>Hi, I'm Phoebe! 👋</h2>
-🌱 I'm an undergraduate student studying Computational Science and Software Development.
+🌱 I'm an undergraduate student studying Bachelor of Computer Science
 
-💌 Contact me at zphoebe@outlook.com.
+💌 Contact me at zphoebe@outlook.com
 
 <h2>📚 Currently Learning</h2>
 
 **Monash University**
 - FIT2099 Object oriented design and implementation
 - FIT1047 Introduction to computer systems, networks and security
-- MTH1020 Analysis of change
-- SCI1000 Science communication to influence change
+- FIT1049 IT professional practice
+- MAT1841 Continuous mathematics for computer science
 
 <h2>🔍 GitHub Stats</h2>
 
