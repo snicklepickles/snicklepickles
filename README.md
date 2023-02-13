@@ -6,10 +6,10 @@
 <h2>📚 Currently Learning</h2>
 
 **Monash University**
-- FIT2099 Object oriented design and implementation
-- FIT1047 Introduction to computer systems, networks and security
-- FIT1049 IT professional practice
-- MAT1841 Continuous mathematics for computer science
+- FIT2004 - Algorithms and data structures
+- FIT2081 - Mobile application development
+- FIT3171 - Databases
+- FIT2108 - Industry based learning seminar
 
 <h2>🔍 GitHub Stats</h2>
 
