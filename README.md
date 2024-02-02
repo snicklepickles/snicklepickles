@@ -6,10 +6,8 @@
 <h2>📚 Currently Learning</h2>
 
 **Monash University**
-- FIT2004 - Algorithms and data structures
-- FIT2081 - Mobile application development
-- FIT3171 - Databases
-- FIT2108 - Industry based learning seminar
+- FIT3155 - Advanced data structures and algorithms
+- PHY2011 - Neuroscience of communication, sensory and control systems
 
 <h2>🔍 GitHub Stats</h2>
 
